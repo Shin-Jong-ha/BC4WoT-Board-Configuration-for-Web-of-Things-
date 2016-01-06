@@ -12,7 +12,7 @@ NAVER D2 project BC4WoT(Board Configuration for Web of Things)
 다양한 방면으로 성장이 가능하다고 생각한다.
 *******************************************************************************************************************************
 2. 동영상  youtube 영상 : https://www.youtube.com/watch?v=wSyTI-t38vQ
-3. 프로젝트 소개서 https://drive.google.com/folderview?id=0B2a75opyhljCaUNjZThQRTFMUWs&usp=sharing (github 폴더 내에 프로젝트 소개서 첨부)
+3. 프로젝트 소개서 https://drive.google.com/file/d/0B2a75opyhljCME5Ic3prU3NuaXc/view?usp=sharing (github 폴더 내에 프로젝트 소개서 첨부)
 
 4. 사용한 오픈소스 : WiringPI  http://wiringpi.com/
 
