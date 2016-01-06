@@ -17,3 +17,4 @@ NAVER D2 project BC4WoT(Board Configuration for Web of Things)
 4. 사용한 오픈소스 : WiringPI  http://wiringpi.com/
 
 폴더 최상단 프로젝트 파일에 대한 주석 설명이 첨부되어 있습니다.
+a
